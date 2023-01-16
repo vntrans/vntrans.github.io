@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Reading Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+    <style type="text/css">
+        body{ font: 18px sans-serif; color:#ffffff;}
+        .container{ padding: 50px; overflow: auto; display: flex; flex-direction: column-reverse; }
+    </style>
+</head>
+
+<body style="background-color:#333333">
+    <div class="container">
+    </div>
+</body>
+
+</html>
